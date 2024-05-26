@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./bin/www ENV=DEV",
-    "prod": "nodemon ./bin/www ENV=PROD"
+    "prod": "node ./bin/www ENV=PROD"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
