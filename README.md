@@ -3,6 +3,7 @@
 ## description
 Project management system is a web application capable of creating projects and tasks, assigning deadlines, and managing user roles. It involves setting up projects, creating accounts, login sessions, and accessing project-related functionalities. The system allows for dragging and dropping tasks based on roles and provides visual cues for deadline statuses using color-coded tags (gray for completed or passed deadlines, red for nearing deadlines, and green for projects with ample time remaining).
 
+## Deployed live server: http://13.232.85.119:3000/
 ## Prerequisites
 - Node.js (https://nodejs.org/)
 - npm (https://www.npmjs.com/)
